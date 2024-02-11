@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @DerTypmitnemVogel
+- 👀 I’m interested in Coding and game Developement
+- 🌱 I’m currently learning C++.
+- 📫 How to reach me Discord 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like Pancakes
